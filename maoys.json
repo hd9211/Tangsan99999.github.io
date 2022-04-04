@@ -28,7 +28,6 @@
   {"key":"csp_xpath_saohuotv2","name":"骚火电影(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tangsan99999.github.io/sub/xpath/saohuotv2.json"},
   {"key":"csp_xpath_lranc","name":"天天影视(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tangsan99999.github.io/sub/xpath/lranc.json"},
   {"key":"csp_xpath_jpys","name":"极品影视(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tangsan99999.github.io/sub/xpath/jpys.json"},
-  {"key":"csp_appysv2_寻常影视","name":"寻常影视(v1)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://tv.91ymz.cn/api.php/v1.vod"},
   {"key":"csp_appysv2_蓝风影视","name":"蓝风影视(v1)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.ruchuplus.cn/api.php/v1.vod"},
   {"key":"csp_appysv2_秒看电影","name":"秒看电影(v1)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.5skan.com/mogai_api.php/v1.vod"},
   {"key":"csp_appysv2_筋斗云影视","name":"筋斗云影视(v1)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tv.jindcloud.com/api.php/v1.vod"},
